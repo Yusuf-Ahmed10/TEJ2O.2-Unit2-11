@@ -39,4 +39,3 @@ input.onGesture(Gesture.Shake, function () {
     basic.showIcon(IconNames.Sad)
     } 
 })
-basic.showString('Hello, World!')
