@@ -6,9 +6,9 @@
 */
 
 // variable
-let number1: number = randint(0,99)
+const number1: number = randint(0,99)
 
-let number2: number = randint(0,99)
+const number2: number = randint(0,99)
 
 basic.clearScreen()
 basic.showIcon(IconNames.Happy)
